@@ -1,0 +1,6 @@
+$,Dólar estadounidense,USD
+£,Libra esterlina,GBP
+$,Dólar australiano,AUD
+¥,Yen japonés,JPY
+$,Dólar canadiense,CAD
+¥,Yuan renminbi,CNY
